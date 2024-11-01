@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serda\\Documents\\Git\\NewProject\\NewProject\\NewProject.csproj",
-      "projectName": "NewProject",
-      "projectPath": "C:\\Users\\serda\\Documents\\Git\\NewProject\\NewProject\\NewProject.csproj",
+      "projectUniqueName": "C:\\Users\\serda\\Documents\\Git\\NewProject\\NewProject\\PresentationLayer.csproj",
+      "projectName": "PresentationLayer",
+      "projectPath": "C:\\Users\\serda\\Documents\\Git\\NewProject\\NewProject\\PresentationLayer.csproj",
       "packagesPath": "C:\\Users\\serda\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\serda\\Documents\\Git\\NewProject\\NewProject\\obj\\",
       "projectStyle": "PackageReference",
